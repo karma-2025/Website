@@ -1,0 +1,45 @@
+---
+title: "MBA Portfolio: Karma Galley"
+format:
+  html:
+    theme: default
+    css: styles.css
+---
+
+# About Me
+
+I am currently pursuing my MBA (2024–2025), with a background in accounting and construction supervision. I have worked in both finance and infrastructure sectors, giving me a unique perspective on business operations, budgeting, and project management. I am passionate about contributing to projects that drive economic and social development, particularly in underserved communities.
+
+# Education
+
+- **MBA**, 2024–2025 (In Progress)  
+- **Bachelor of Commerce (B.Com)**, 2007
+
+# Professional Experience
+
+## Construction Supervisor  
+**Tsamgar Construction Pvt. Ltd.**, (2016–2022)  
+- Supervised rural road construction projects in remote areas  
+- Oversaw site logistics, labor, material procurement, and reporting  
+- Ensured compliance with safety and quality standards
+
+## Accountant  
+**Powda Financial Services** (2010)  
+- Managed bookkeeping, payroll, and monthly reporting  
+- Prepared financial statements and maintained general ledger  
+- Supported audits and budget forecasting
+
+# Skills
+
+- Financial Accounting & Reporting  
+- Project Supervision & Coordination  
+- Budgeting & Procurement  
+- MS Excel, Tally, and QuickBooks  
+- Communication & Team Management
+
+# Contact
+
+You can reach me via:  
+📧 email@example.com
+
+
